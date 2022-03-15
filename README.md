@@ -1,20 +1,10 @@
 # MMM-Detector
 
-![](https://raw.githubusercontent.com/bugsounet/MMM-Detector/dev/MMM-Detector.png)
+Hi, after some (hard) coding,
+I annonce the end of live of this module!
 
-New detectors for assistants !
+Don't worry, something else is coded for more flexibility!
 
-Multi-keyword listener with
-* Snowboy Features
-* Porcupine Features
+This new module is EXT-Detector for activate your prefered Assistant: MMM-GoogleAssistant v4
 
-It will include:
-  * Ok Google
-  * Hey Google
-  * Alexa
-  * Jarvis
-  * Hey Siri
-  * Computer
-  * ...
-
-All informations is now the [wiki](http://wiki.bugsounet.fr/en/MMM-Detector)
+@bugsounet
